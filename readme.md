@@ -41,5 +41,11 @@
 ---
 
 ## 🌵 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-636B2F?style=for-the-badge&logo=linkedin&logoColor=white)]()  
-[![Email](https://img.shields.io/badge/Email-636B2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abo.njoks@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/abongile-njokwana">
+    <img src="https://img.shields.io/badge/LinkedIn-636B2F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abo.njoks@gmail.com">
+    <img src="https://img.shields.io/badge/Email-636B2F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
