@@ -41,7 +41,7 @@
 ---
 
 ## 🌵 Connect with Me
-<p align="left">
+<p align="cemter">
   <a href="https://linkedin.com/in/abongile-njokwana">
     <img src="https://img.shields.io/badge/LinkedIn-636B2F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
