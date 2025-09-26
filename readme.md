@@ -1,4 +1,4 @@
-# Hi, I’m Abongile Njokwana, nice to meet you.
+# Hi, I’m Abongile Njokwana.
 
 <img src="assets/jalg-tv-stand-CpOO-ybPMZY-unsplash.jpg" alt="Plant Banner" width="100%" />
 
@@ -14,7 +14,7 @@
 ## 🌳 GitHub Stats
 ![Abongile’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Abo6788&show_icons=true&title_color=636B2F&icon_color=636B2F&text_color=333333&bg_color=ffffff)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abo6788&theme=default&ring=636B2F&fire=636B2F&currStreakLabel=636B2F)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Abo6788&theme=default&ring=636B2F&fire=636B2F&currStreakLabel=636B2F)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abo6788&layout=compact&title_color=636B2F&text_color=333333&bg_color=ffffff)  
 
@@ -41,5 +41,5 @@
 ---
 
 ## 🌵 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-636B2F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abongile-njokwana)  
-[![Email](https://img.shields.io/badge/Email-636B2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-636B2F?style=for-the-badge&logo=linkedin&logoColor=white)]()  
+[![Email](https://img.shields.io/badge/Email-636B2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abo.njoks@gmail.com)
