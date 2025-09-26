@@ -38,8 +38,6 @@
 🌱 *"Growth is quiet, but its roots run deep."*  
 <!-- AI_SECTION_END -->
 
-(This section can be auto-updated daily using a GitHub Action + AI API.)
-
 ---
 
 ## 🌵 Connect with Me
