@@ -1,6 +1,7 @@
 # Hi, I’m Abongile Njokwana, nice to meet you.
 
-<img src="C:\Users\Abongile\Documents\GithubAcc\jalg-tv-stand-CpOO-ybPMZY-unsplash.jpg" alt="Plant Banner" width="100%" />
+<img src="assets/jalg-tv-stand-CpOO-ybPMZY-unsplash.jpg" alt="Plant Banner" width="100%" />
+
 
 ## 🌱 About Me
 - 💻 Final-year Computer Science & Computer Engineering Student at the University of Cape Town  
