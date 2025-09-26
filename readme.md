@@ -5,7 +5,7 @@
 
 ## 🌱 About Me
 - 💻 Final-year Computer Science & Computer Engineering Student at the University of Cape Town  
-- 🌿 Passionate about Embedded Systems Engineering, Low-Level Programming, Web Design and Application Development.
+- 🌿 Passionate about Embedded Systems Engineering, Low-Level Programming, Web Design, Backend Engineering, Frontend Engineering and Application Development.
 - 🌍 Based in South Africa  
 - 🍃 Currently exploring Embedded Systems Engineering as it relates UART connections and communication, as well as versing myself in front-end frameworks such as React.js and newer CSS frameworks such as TailWindCSS.
 
