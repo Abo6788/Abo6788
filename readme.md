@@ -1,4 +1,4 @@
-# Hi, I’m Abongile 👋  
+# Hi, I’m Abongile Njokwana, nice to meet you.
 
 <img src="https://yourcdn.com/ai-banner.png" alt="Plant Banner" width="100%" />
 
