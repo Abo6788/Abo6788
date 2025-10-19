@@ -32,7 +32,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-636B2F?style=for-the-badge&logo=asm&logoColor=white)
 
 ---
-
+ 
 ## 🌿 Thought of the Day
 <!-- AI_SECTION_START -->
 🌱 *"Growth is quiet, but its roots run deep."*  
